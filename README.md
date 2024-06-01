@@ -1,6 +1,8 @@
+# Iowa_salary_analysis
+
 This project aims to analyze Iowa's salary book since the fiscal year 2007, with the objective of understanding the evolution of salaries across various departments over the years. Additionally, it seeks to examine the salary distribution based on gender and state of residence.
 
-Dataset
+## Dataset
 
 The dataset used in this analysis is the “State_of_Iowa_Salary_Book.csv”. It contains the name, gender, county or city of residence (when possible), official title, total salary received during each fiscal year, base salary for the employee, and traveling and subsistence expense reimbursed to state personnel beginning with Fiscal Year 2007.
 
@@ -8,7 +10,7 @@ Resource of Dataset: https://data.iowa.gov/Government-Employees/State-of-Iowa-Sa
 
 Resource of dictionary: https://public.opendatasoft.com/explore/dataset/georef-united-states-of-america-county/table/?disjunctive.ste_code&disjunctive.ste_name&disjunctive.coty_code&disjunctive.coty_name&sort=year
 
-Code
+## Code
 
 The code provided performs the following steps:
 1.	Imported the required libraries, including pandas for data manipulation and plotly, dash and seaborn for 
@@ -17,3 +19,10 @@ The code provided performs the following steps:
 4.	Exploratory data analysis (EDA) was performed on the dataset.
 5.	The column "State" was created based on the dictionary "city_to_state_dict".
 6.	Performed an analysis by department, gender and state.
+
+## Usage
+To use this code, you can follow these steps:
+
+1. Make sure you have the required libraries installed.
+2. Download the "State_of_Iowa_Salary_Book.csv" and "georef-united-states-of-america-county" datasets from links above and place it in the directory "Data" in the same directory as the code file.
+3. Open the code file and run it using a Python IDE or Jupyter Notebook.
