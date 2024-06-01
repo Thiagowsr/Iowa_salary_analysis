@@ -1,4 +1,4 @@
-# Iowa_salary_analysis
+# Iowa Salary Analysis
 
 This project aims to analyze Iowa's salary book since the fiscal year 2007, with the objective of understanding the evolution of salaries across various departments over the years. Additionally, it seeks to examine the salary distribution based on gender and state of residence.
 
@@ -24,5 +24,5 @@ The code provided performs the following steps:
 To use this code, you can follow these steps:
 
 1. Make sure you have the required libraries installed.
-2. Download the "State_of_Iowa_Salary_Book.csv" and "georef-united-states-of-america-county" datasets from links above and place it in the directory "Data" in the same directory as the code file.
+2. Download the "State_of_Iowa_Salary_Book.csv" and "georef-united-states-of-america-county.csv" datasets from links above and place it in the directory "Data" in the same directory as the code file.
 3. Open the code file and run it using a Python IDE or Jupyter Notebook.
