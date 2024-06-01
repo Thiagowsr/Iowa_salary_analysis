@@ -4,6 +4,9 @@ Dataset
 
 The dataset used in this analysis is the “State_of_Iowa_Salary_Book.csv”. It contains the name, gender, county or city of residence (when possible), official title, total salary received during each fiscal year, base salary for the employee, and traveling and subsistence expense reimbursed to state personnel beginning with Fiscal Year 2007.
 
+Resource of Dataset: https://data.iowa.gov/Government-Employees/State-of-Iowa-Salary-Book/s3p7-wy6w/about_data
+Resource of dictionary: https://public.opendatasoft.com/explore/dataset/georef-united-states-of-america-county/table/?disjunctive.ste_code&disjunctive.ste_name&disjunctive.coty_code&disjunctive.coty_name&sort=year
+
 Code
 
 The code provided performs the following steps:
